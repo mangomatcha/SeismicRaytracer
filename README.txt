@@ -1,5 +1,5 @@
 In seismology, the propagation of seismic waves from sources to receivers is 
-studied to both located the source of the waves and study the structure of the 
+studied to both locate the source of the waves and study the structure of the 
 earth. The propagation of these waves is governed by the the same mechanical 
 laws used in optics, so priciples from that field can be applied to the study 
 of seismic waves (such as Snell's law and Huygens' principle). Seismic 
